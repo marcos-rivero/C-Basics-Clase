@@ -1,0 +1,6 @@
+C:\Users\UNSTA\source\repos\MiApp\MiApp.LogicaDeNegocio\bin\Debug\MiApp.LogicaDeNegocio.dll
+C:\Users\UNSTA\source\repos\MiApp\MiApp.LogicaDeNegocio\bin\Debug\MiApp.LogicaDeNegocio.pdb
+C:\Users\UNSTA\source\repos\MiApp\MiApp.LogicaDeNegocio\obj\Debug\MiApp.LogicaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\UNSTA\source\repos\MiApp\MiApp.LogicaDeNegocio\obj\Debug\MiApp.LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\UNSTA\source\repos\MiApp\MiApp.LogicaDeNegocio\obj\Debug\MiApp.LogicaDeNegocio.dll
+C:\Users\UNSTA\source\repos\MiApp\MiApp.LogicaDeNegocio\obj\Debug\MiApp.LogicaDeNegocio.pdb
